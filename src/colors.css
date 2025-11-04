@@ -1,0 +1,68 @@
+.Rreshti1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 33.33vh;
+}
+
+#color1, #color2, #color3, #color4, #color5, #color6,
+#color7, #color8, #color9, #color10, #color11, #color12,
+#color13, #color14, #color15, #color16, #color17, #color18{
+    width: 16.66vw;
+    height: 100%;
+}
+
+#color1{
+    background-color: #FF6B6B;
+}
+#color2{
+    background-color: #4ECDC4;
+}
+#color3{
+    background-color: #45B7D1;
+}
+#color4{
+    background-color: #FFA07A;
+}
+#color5{
+    background-color: #98D8C8;
+}
+#color6{
+    background-color: #F7DC6F;
+}
+#color7{
+    background-color: #BB8FCE;
+}
+#color8{
+    background-color: #85C1E2;
+}
+#color9{
+    background-color: #F8B88B;
+}
+#color10{
+    background-color: #ABEBC6;
+}
+#color11{
+    background-color: #FAD7A0;
+}
+#color12{
+    background-color: #D7BDE2;
+}
+#color13{
+    background-color: #A3E4D7;
+}
+#color14{
+    background-color: #F9E79F;
+}
+#color15{
+    background-color: #FADBD8;
+}
+#color16{
+    background-color: #D5F4E6;
+}
+#color17{
+    background-color: #AED6F1;
+}
+#color18{
+    background-color: #E8DAEF;
+}
